@@ -1,6 +1,6 @@
 # Toggle Accelerator
 
-Streamlines and speeds up the creation of avatar toggles, menus, and animation clips for Modular Avatar and VRCFury.
+Streamlines and speeds up the creation of avatar toggles, menus, and animation clips for Standalone, Modular Avatar and VRCFury.
 
 ---
 
